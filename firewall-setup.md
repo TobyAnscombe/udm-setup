@@ -2,10 +2,9 @@
 
 You can get to the firewall rules at the following address [https://192.168.1.1/network/default/settings/security/threat-management](https://192.168.1.1/network/default/settings/security/threat-management) or login into the UDM and choose settings/security/firewall.
 
-```
-Before we start, confession time. I've been very lazy on how I've set these up. Before a bunch of security professionals start flaming me I'd like to remind them that security is a continuum of ease of use vs secure and I've plonked myself on the convenience side of the fence..
-```
-With that out the way these are the rules that I've got setup.
+> Before we start, confession time. I've been very lazy on how I've set these up. Before a bunch of security professionals start flaming me I'd like to remind them that security is a continuum of ease of use vs secure and I've plonked myself on the convenience side of the fence..
+
+<!-- With that out the way these are the rules that I've got setup. -->
 
 ## Groups
 
