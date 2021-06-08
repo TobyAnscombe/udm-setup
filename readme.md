@@ -148,9 +148,10 @@ The easiest way to ensure that things are running how you want is to define some
 
 The reason for this simple setup is Sonos uses loads of ports so creating a port map for every single combo is just painful. I've taken the easy option of just allowing those IP's that are used by the Sonos devices to come back through the firewall. 
 
-_Obviously this means that if someone was to spoof my Sonos IP's then they could get through the firewall but if someone is able to spoof an IP inside my network then I've probably got bigger issues..._
+_Obviously this means that if someone was to spoof my Sonos IP's then they could get through the firewall but if someone is able to spoof an IP inside my network then I've probably got bigger issues_
 
-### Firewall Rules
+
+### Firewall Rules
 
 Note that all these rules are set on the `LAN IN` section of the Firewall rules:
 
