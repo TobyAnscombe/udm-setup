@@ -66,7 +66,7 @@ So, to enable your main LAN to be secure and walled off from your IoT LAN we nee
 
 To allow proper multicast (compared to the broken one that ships with UnifiOS) you can install one via `podman`
 
-(podman multicast relay)[multicast-relay.md]
+[Docker multicast relay](multicast-relay.md)
 
 ## Useful docs to read
 
