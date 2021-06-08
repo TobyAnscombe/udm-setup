@@ -4,8 +4,8 @@
 
 Out of the box there should be a network called LAN already created. You can check this by going to [https://192.168.1.1/network/default/settings/networks](https://192.168.1.1/network/default/settings/networks) assuming that you have the default ip range running. 
 
-I double-check that `Content Filtering` is set to `NONE` as if I want content filtering it will be via the Pi-Hole rather than some random set of urls applied.
-                                                                                                                                                                                                 |
+>_I double-check that `Content Filtering` is set to `NONE` as if I want content filtering it will be via the Pi-Hole rather than some random set of urls applied._
+
 ## IoT LAN
 
 So this is the LAN that will be used by all of our IoT devices. Its going to pretty much mimic the same setup as above but with a couple of changes. 
