@@ -2,6 +2,13 @@
 
 *I pulled this together in response to an query on the Unifi message boards and as I have way too much time on my hands thought that I would quickly write it up, partly to help out and partly so that I've a record when I come to repeat the install (if I need to!)*
 
+## Task Lists
+- [x] update formatting
+- [ ] Add Open SpeedTest container to UDM Host
+- [ ] Many things on Pi-Hole
+- [ ] Add some images and diagrams rather than a wall of text settings
+- [ ] Walk through of my @boostchicken udm config
+
 ## Start point
 
 The start-point is a clean install of whatever version of the firmware and Unifi Application is current. *I'm on the beta programme so for me thats currently:*
