@@ -81,6 +81,8 @@ This should now give you all the groups that you will need when configuring the 
 
 
 ## Firewall Rules
+
+***_To Do: Update this section with images and better description_***
 <del>Note that all these rules are set on the `LAN IN` section of the Firewall rules:</del>
 
 | Type   | Description                                 | Enabled | Rule Applied               | Action | IPv4Protocol | Match all protocols except for this | Source Type        | IPv4 Address Group | Port Group    | Destination Type   | IPv4 Address Group | Port Group  | Enable logging | Match State New | Match State Established | Match State Invalid | Match State Related | IPSec       |
