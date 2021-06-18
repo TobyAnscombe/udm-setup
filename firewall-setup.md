@@ -43,7 +43,8 @@ Allow any communication from IoT -> LAN for any ***_SONOS Speakers_***
 
 So, based on our usage we need the following groups established:
 * Sonos Speakers
-* Homekit Ports
+* Homekit Ports (5353, 51827, 8123)
+* Ikea IoT Ports (5683, 5684, 36237)
 * Our IoT network (makes life easier later)
 * Our LAN network (makes life easier later)
 
@@ -59,6 +60,10 @@ Then click the `Apply Changes` button at the bottom of the screen
 ### Homekit Ports
 
 ![Homekit Ports](./images/HomekitPorts.png)
+
+### Ikea IoT Ports (TRÅDFRI Smart Lighting)
+
+![Homekit Ports](./images/IkeaIoT.png)
 
 Then click the `Apply Changes` button at the bottom of the screen
 
