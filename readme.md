@@ -42,6 +42,7 @@ In classic Internet parlance, YMMV but for me this setup works with the followin
 * Google Chromecast
 * Yamaha Home Theater Amp
 * Kamado Joe iKamand (essential!)
+* IKEA TRÅDFRI Smart Lighting
 
 ### Blimey, anything else??
 
