@@ -4,7 +4,7 @@ _So, this is a total rewrite on this section based on the feedback from the Unif
 
 ## Why Do We Need it?
 
-Well, we have gone to the trouble to setup a seperate network for our IoT Devices and as a result of that we may not have the ability to control/access them from our main LAN. The purpose of the firewall is to essentially:
+Well, we have gone to the trouble to setup a separate network for our IoT Devices and as a result of that we may not have the ability to control/access them from our main LAN. The purpose of the firewall is to essentially:
 * Drop every communication between VLAN 107 (IoT) and our default VLAN (LAN)
 * Except if the following criteria is met:
     * The source is from our Sonos speakers IP Addresses. Note that we use the Sonos IP's as they tend to use so many ports its just easier....

@@ -39,5 +39,12 @@ docker run -d \
 ## Install Portainer to allow monitoring of Docker containers
 
 ```bash
-sudo docker run -d -p 9000:9000 --name=portainer --restart=always -v /var/run/docker.sock:/var/run/docker.sock -v portainer_data:/data portainer/portainer-ce:linux-arm
+# Stop
+docker stop portainer
+# Remove
+docker rm portainer
+# Pull
+docker pull portainer/portainer-ce
+# Run
+docker run -d -p 8000:8000 -p 9000:9000 --name=portainer --restart=always -v /var/run/docker.sock:/var/run/docker.sock -v portainer_data:/data portainer/portainer-ce
 ```
