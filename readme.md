@@ -13,8 +13,8 @@
 
 The start-point is a clean install of whatever version of the firmware and Unifi Application is current. *I'm on the beta programme so for me thats currently:*
 
-* [UniFi OS Dream Machine 1.10.0.12](https://community.ui.com/releases/UniFi-OS-Dream-Machines-1-10-0-12/ef3c489c-8510-40a0-aa75-d7db4121a373)
-* [UniFi Network Application 6.2.26](https://community.ui.com/releases/UniFi-Network-Application-6-2-26/4ce235f8-c479-477e-b71a-e66d5294c5a9)
+* [UniFi OS Dream Machine 1.11.1](https://community.ui.com/releases/UniFi-OS-Dream-Machines-1-11-1/36c7711e-7b11-4ee6-9f78-df31d4b51398)
+* [UniFi Network Application 7.0.21](https://community.ui.com/releases/UniFi-Network-Application-7-0-21/f08ac16f-282a-43ac-9288-c8238e33d888)
 
 ## Outcome
 
