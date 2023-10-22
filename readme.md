@@ -1,6 +1,6 @@
 # Unifi Dream Machine / Pro Setup
 
-## Note that this was pulled together from the Unfi v2.x line, now that they have moved ro v3.x a lot of this is redundant / wont work.
+## Note that this was pulled together from the Unfi v2.x line, now that they have moved to v3.x a lot of this is redundant / wont work.
 
 *I pulled this together in response to an query on the Unifi message boards and as I have way too much time on my hands thought that I would quickly write it up, partly to help out and partly so that I've a record when I come to repeat the install (if I need to!)*
 
