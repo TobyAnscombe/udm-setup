@@ -1,0 +1,11 @@
+name: CI
+
+on:
+  push:
+    branches: [main]
+
+jobs:
+  protect-main:
+    uses: TobyAnscombe/github-actions/.github/workflows/branch-protection.yml@main
+    permissions:
+      administration: write
