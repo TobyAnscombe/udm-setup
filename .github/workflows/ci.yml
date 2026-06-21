@@ -7,3 +7,5 @@ on:
 jobs:
   protect-main:
     uses: TobyAnscombe/github-actions/.github/workflows/branch-protection.yml@main
+    secrets:
+      token: ${{ secrets.BRANCH_PROTECTION_TOKEN }}
